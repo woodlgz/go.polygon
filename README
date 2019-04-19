@@ -1,0 +1,6 @@
+
+# go.polygon
+
+This is a light-weight polygon algorithm go package which provides irregular polygon testing(includes polygon-point relation testing, polygon-line relation testing, polygon-polygon relation testing).
+
+Note that polygon-point relation testing is specially optimized by grid trick, which is useful when a polygon never changes its shape.
